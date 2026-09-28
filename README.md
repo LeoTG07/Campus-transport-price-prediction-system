@@ -400,8 +400,8 @@ Both models were evaluated on **51 held-out test rows** that neither model saw d
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/campus-transport-price-prediction.git
-cd campus-transport-price-prediction
+git clone https://github.com/LeoTG07/Campus-transport-price-prediction-system
+cd Campus-transport-price-prediction-system
 ```
 
 ### 2️⃣ Install the dependencies
