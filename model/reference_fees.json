@@ -1,0 +1,9 @@
+{
+  "as_of": "Jul-2026",
+  "fuel_price": 1131.32,
+  "fees": {
+    "17-Seater Bus": 800,
+    "7-Seater Shuttle": 200,
+    "4-Seater Tricycle (Keke)": 100
+  }
+}

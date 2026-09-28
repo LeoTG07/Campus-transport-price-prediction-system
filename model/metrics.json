@@ -1,0 +1,27 @@
+{
+  "results": {
+    "Linear Regression": {
+      "MAE": 23.38,
+      "MSE": 1585.32,
+      "RMSE": 39.82,
+      "R2": 0.8882
+    },
+    "Random Forest Regressor": {
+      "MAE": 9.91,
+      "MSE": 719.32,
+      "RMSE": 26.82,
+      "R2": 0.9493
+    }
+  },
+  "best_model": "Random Forest Regressor",
+  "feature_columns": [
+    "Fuel_Price_NGN_per_Litre",
+    "Festive_Period"
+  ],
+  "target_column": "Transport_Price_NGN",
+  "train_rows": 203,
+  "test_rows": 51,
+  "total_rows": 254,
+  "test_size": 0.2,
+  "random_state": 42
+}
